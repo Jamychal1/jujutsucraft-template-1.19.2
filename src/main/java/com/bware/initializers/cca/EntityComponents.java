@@ -1,4 +1,4 @@
-package com.bware.core.cursed_energy.initializer;
+package com.bware.initializers.cca;
 
 import com.bware.JujutsuCraft;
 import com.bware.core.cursed_energy.CursedEnergyComponent;

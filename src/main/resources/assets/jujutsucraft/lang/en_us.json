@@ -2,6 +2,9 @@
   "item.jujutsucraft.six_eyes": "Six Eyes",
   "item.jujutsucraft.reverse_ct": "Master Reverse CT",
   "item.jujutsucraft.sukuna_finger": "Sukuna's Finger",
-  "item.jujutsucraft.grade_up": "Improve Grade",
-  "item.jujutsucraft.sukuna_finger.tooltip": "Special Grade Cursed Object"
+  "item.jujutsucraft.grade_up": "Grade Up",
+  "item.jujutsucraft.ct_changer": "Change CT",
+  "itemGroup.jujutsucraft.jujutsu": "JujutsuCraft Main",
+  "item.jujutsucraft.sukuna_finger.tooltip": "Special Grade Cursed Object",
+  "item.jujutsucraft.sukuna_finger.tooltip.shift": "The Great Ryomen Sukuna..."
 }

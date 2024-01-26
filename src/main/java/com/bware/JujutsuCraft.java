@@ -1,7 +1,7 @@
 package com.bware;
 
-import com.bware.core.registries.ModAttributes;
-import com.bware.core.registries.ModItems;
+import com.bware.initializers.event.ModAttributes;
+import com.bware.initializers.registries.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.bware.core.registries;
+package com.bware.initializers.registries;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.LivingEntity;

@@ -1,4 +1,4 @@
-package com.bware.core.registries.ModEffects;
+package com.bware.initializers.registries.ModEffects;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.effect.StatusEffect;

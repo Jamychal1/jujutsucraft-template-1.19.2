@@ -3,7 +3,8 @@
 	"package": "com.bware.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"PlayerEntityMixin"
 	],
 	"client": [
 		"client.CEHudMixin"

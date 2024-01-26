@@ -1,6 +1,6 @@
 package com.bware.mixin;
 
-import com.bware.core.registries.ModAttributes;
+import com.bware.initializers.event.ModAttributes;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.attribute.DefaultAttributeContainer;

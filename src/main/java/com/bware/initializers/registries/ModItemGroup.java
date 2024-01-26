@@ -1,4 +1,4 @@
-package com.bware.core.registries;
+package com.bware.initializers.registries;
 
 import com.bware.JujutsuCraft;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;

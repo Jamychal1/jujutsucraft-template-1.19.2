@@ -1,7 +1,7 @@
-package com.bware.core.registries;
+package com.bware.initializers.registries;
 
 import com.bware.core.cursed_energy.CursedEnergyComponent;
-import com.bware.core.cursed_energy.initializer.EntityComponents;
+import com.bware.initializers.cca.EntityComponents;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.attribute.AttributeContainer;
 import net.minecraft.entity.damage.DamageSource;
@@ -10,7 +10,7 @@ import net.minecraft.entity.effect.StatusEffectCategory;
 
 public class ModStatusEffect extends StatusEffect {
 
-    public static final DamageSource SUREHIT = new DamageSource("cleave").setUsesMagic().setBypassesArmor().setBypassesProtection().setUnblockable();
+    public static final DamageSource SUREHIT = new DamageSource("surehit").setUsesMagic().setBypassesArmor().setBypassesProtection().setUnblockable();
 
 
     public ModStatusEffect(StatusEffectCategory statusEffectCategory, int color) {

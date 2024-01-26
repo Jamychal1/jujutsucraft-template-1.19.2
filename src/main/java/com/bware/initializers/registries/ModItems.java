@@ -1,7 +1,7 @@
-package com.bware.core.registries;
+package com.bware.initializers.registries;
 
 import com.bware.JujutsuCraft;
-import com.bware.core.registries.CustomItems.SukunaFinger;
+import com.bware.initializers.registries.customItems.SukunaFinger;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
@@ -14,6 +14,8 @@ public class ModItems {
     public static final Item SIX_EYES = registerItem("six_eyes",
             new Item(new FabricItemSettings().group(ModItemGroup.JUJUTSU).maxCount(1).rarity(Rarity.EPIC)));
     public static final Item REVERSE_CT = registerItem("reverse_ct",
+            new Item(new FabricItemSettings().group(ModItemGroup.JUJUTSU).maxCount(1).rarity(Rarity.EPIC)));
+    public static final Item CT_CHANGER = registerItem("ct_changer",
             new Item(new FabricItemSettings().group(ModItemGroup.JUJUTSU).maxCount(1).rarity(Rarity.EPIC)));
     public static final Item SUKUNA_FINGER = registerItem("sukuna_finger",
             new SukunaFinger(new FabricItemSettings().group(ModItemGroup.JUJUTSU).maxCount(20).rarity(Rarity.EPIC)));

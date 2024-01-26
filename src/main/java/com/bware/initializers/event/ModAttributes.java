@@ -1,4 +1,4 @@
-package com.bware.core.registries;
+package com.bware.initializers.event;
 
 import com.bware.JujutsuCraft;
 import net.minecraft.entity.attribute.ClampedEntityAttribute;
